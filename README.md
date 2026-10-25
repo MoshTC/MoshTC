@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://moshtc.github.io/portafolio-victor/">Portafolio web</a> ·
+  <a href="https://github.com/MoshTC/portafolio-victor">Portafolio personal</a> ·
   <a href="https://github.com/MoshTC?tab=repositories">Repositorios</a> ·
-  <a href="https://github.com/MoshTC/portafolio-victor">Código del portafolio</a>
+  <a href="https://github.com/MoshTC/respawn-store">Respawn Store</a>
 </p>
 
 ## \> Hola, soy Víctor 👋
@@ -50,7 +50,7 @@ Mi espacio web para presentar proyectos, tecnologías y mi recorrido de aprendiz
 
 - **Base del sitio:** HTML, CSS y JavaScript.
 - **Propósito:** reunir y compartir mi trabajo en un solo lugar.
-- **Explorar:** [Ver portafolio](https://moshtc.github.io/portafolio-victor/) · [Código y documentación](https://github.com/MoshTC/portafolio-victor)
+- **Explorar:** [Código y documentación](https://github.com/MoshTC/portafolio-victor)
 
 ## \> Aprendizaje en curso
 
