@@ -1,69 +1,65 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MoshTC/MoshTC/main/assets/profile-terminal.svg" width="100%" alt="Víctor Tinoco — estudiante de Ingeniería de Sistemas en Cibertec, Perú. En formación en Desarrollo Full Stack." />
+  <img src="./assets/profile-terminal.svg" width="100%" alt="Víctor Tinoco · MoshTC. Estudiante de Ingeniería de Sistemas, aprendiendo Desarrollo Full Stack." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/MoshTC/portafolio-victor">Portafolio personal</a> ·
-  <a href="https://github.com/MoshTC?tab=repositories">Repositorios</a> ·
-  <a href="https://github.com/MoshTC/respawn-store">Respawn Store</a>
+  <strong>Estudiante de Ingeniería de Sistemas · Aprendiendo Desarrollo Full Stack</strong><br />
+  Cibertec · Perú
 </p>
 
-## \> Hola, soy Víctor 👋
+<p align="center">
+  <a href="https://github.com/MoshTC/portafolio-victor">Portafolio</a> &nbsp;·&nbsp;
+  <a href="https://github.com/MoshTC/respawn-store">Respawn Store</a> &nbsp;·&nbsp;
+  <a href="https://github.com/MoshTC">GitHub</a>
+</p>
 
-Soy **estudiante de Ingeniería de Sistemas en Cibertec, Perú**, y actualmente estoy aprendiendo **Desarrollo Full Stack**. Construyo proyectos para practicar, conectar lo que aprendo y mejorar paso a paso.
+## Hola, soy Víctor
 
-Me interesa entender cómo una interfaz se conecta con la lógica de una aplicación y sus datos. Este perfil reúne mi trabajo académico, mi portafolio personal y las tecnologías que utilizo o estoy aprendiendo.
+Estoy construyendo mis bases en **Desarrollo Full Stack** mientras estudio **Ingeniería de Sistemas en Cibertec**. Aprendo creando proyectos, practicando y conectando la interfaz con la lógica y los datos de una aplicación.
 
-> **Mi etapa actual:** estudiante en formación, desarrollando bases en frontend, backend y bases de datos.
+Me interesa escribir código claro, crear interfaces adaptables y mejorar con cada proyecto. Aquí comparto mi portafolio y parte de mi aprendizaje académico.
 
-## \> Mi caja de herramientas
+> En formación: aprender → practicar → construir → mejorar.
 
-Tecnologías que utilizo o estoy aprendiendo; cada proyecto es una oportunidad para seguir practicando.
+## Stack en construcción
 
-**Frontend**
+Tecnologías que utilizo en mis proyectos o estoy aprendiendo, sin atribuirme un nivel profesional.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" height="48" alt="HTML5, CSS3, JavaScript y Bootstrap" />
+- **Frontend:** HTML5 · CSS3 · JavaScript · Bootstrap.
+- **Programación:** Java · PHP.
+- **Datos:** SQL · MySQL · SQL Server.
+- **Herramientas:** Git · GitHub · Visual Studio Code.
 
-**Programación y datos**
+## Proyectos destacados
 
-<img src="https://skillicons.dev/icons?i=java,php,mysql&theme=dark" height="48" alt="Java, PHP y MySQL" />
+### 01 — Respawn Store
 
-También practico con **SQL Server** y bases de datos relacionales.
+**Una tienda web con temática gaming.** Catálogo de consolas, videojuegos y accesorios, con secciones de comunidad y ayuda. Incluye navegación y pie de página compartidos entre páginas.
 
-**Control de versiones**
+`HTML5` · `CSS3` · `JavaScript` · `Tabler Icons`
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="48" alt="Git y GitHub" />
+Proyecto académico del curso de Aplicaciones Web, desarrollado por **un equipo de 6 integrantes**. El resultado es un trabajo colectivo que comparto como parte de mi aprendizaje.
 
-## \> Proyectos destacados
+**[Explorar Respawn Store →](https://github.com/MoshTC/respawn-store)**
 
-### 01 / Respawn Store 🎮
+### 02 — portafolio-victor
 
-Tienda web gaming de consolas, videojuegos y accesorios, desarrollada para el curso de **Aplicaciones Web**. Incluye catálogo, comunidad y secciones de ayuda, con navbar y footer compartidos entre páginas.
+**Mi espacio para compartir lo que construyo.** Portafolio web personal que reúne proyectos, tecnologías y mi recorrido de aprendizaje, con estructura estática y sin dependencias de Node.js.
 
-- **Tecnologías documentadas:** HTML5, CSS3, JavaScript y Tabler Icons.
-- **Contexto:** proyecto académico grupal desarrollado por **6 integrantes**. Lo comparto como parte de mi aprendizaje en equipo; el resultado corresponde al trabajo colectivo.
-- **Explorar:** [Repositorio y documentación](https://github.com/MoshTC/respawn-store) · [Estructura y equipo](https://github.com/MoshTC/respawn-store#readme)
+`HTML5` · `CSS3` · `JavaScript`
 
-### 02 / Portafolio personal 💻
+**[Explorar el portafolio →](https://github.com/MoshTC/portafolio-victor)**
 
-Mi espacio web para presentar proyectos, tecnologías y mi recorrido de aprendizaje. Es un sitio estático que se puede abrir en el navegador sin instalar dependencias.
+## En qué estoy trabajando
 
-- **Base del sitio:** HTML, CSS y JavaScript.
-- **Propósito:** reunir y compartir mi trabajo en un solo lugar.
-- **Explorar:** [Código y documentación](https://github.com/MoshTC/portafolio-victor)
-
-## \> Aprendizaje en curso
-
-- **Frontend:** practicar estructura semántica, estilos responsive e interactividad con JavaScript.
-- **Backend:** profundizar mis bases de programación con Java y PHP.
-- **Datos:** practicar consultas y organización de información con MySQL y SQL Server.
-- **Flujo de trabajo:** reforzar Git, documentar proyectos y aprender de la colaboración.
-
-Mi objetivo es avanzar hacia el desarrollo de aplicaciones completas, construyendo una base sólida en cada etapa.
+- Practicar interfaces responsive e interactividad con JavaScript.
+- Reforzar programación orientada a objetos con Java y mis bases de PHP.
+- Profundizar en consultas SQL y bases de datos relacionales.
+- Mejorar la documentación y el trabajo con Git y GitHub.
 
 ---
 
 <p align="center">
-  <code>aprender → practicar → construir → mejorar</code><br />
-  <sub>Víctor Tinoco · <a href="https://github.com/MoshTC">@MoshTC</a> · Perú</sub>
+  <strong>Una base sólida, un proyecto a la vez.</strong><br />
+  <a href="https://github.com/MoshTC">Encuéntrame en GitHub · @MoshTC</a>
 </p>
